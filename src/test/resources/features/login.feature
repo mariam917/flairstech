@@ -1,4 +1,4 @@
-Feature: OrangeHRM Login
+Feature: OrangeHRM Login test
 
   Scenario: Login with valid credentials
     Given I open the OrangeHRM login page
